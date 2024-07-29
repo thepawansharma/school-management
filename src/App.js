@@ -8,7 +8,7 @@ import Courses from './courses';
 import Students from './students';
 import Attendences from './attendences';
 import Schedules from './schedules'
-
+import $ from 'jquery';
 import Fees from './fees';
 import Holidays from './holidays';
 import Transports from './transports';
