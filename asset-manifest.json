@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thepawansharma/school-management/static/css/main.f855e6bc.css",
-    "main.js": "/thepawansharma/school-management/static/js/main.9de12189.js",
-    "static/js/453.4a8cc65b.chunk.js": "/thepawansharma/school-management/static/js/453.4a8cc65b.chunk.js",
-    "index.html": "/thepawansharma/school-management/index.html",
-    "main.f855e6bc.css.map": "/thepawansharma/school-management/static/css/main.f855e6bc.css.map",
-    "main.9de12189.js.map": "/thepawansharma/school-management/static/js/main.9de12189.js.map",
-    "453.4a8cc65b.chunk.js.map": "/thepawansharma/school-management/static/js/453.4a8cc65b.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.dd17f733.js",
+    "static/js/453.4a8cc65b.chunk.js": "/static/js/453.4a8cc65b.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.dd17f733.js.map": "/static/js/main.dd17f733.js.map",
+    "453.4a8cc65b.chunk.js.map": "/static/js/453.4a8cc65b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9de12189.js"
+    "static/js/main.dd17f733.js"
   ]
 }
