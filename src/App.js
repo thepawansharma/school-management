@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { HashRouter as router, Routes, Route, Link, HashRouter } from 'react-router-dom';
+import { BrowserRouter as router, Routes, Route, Link, BrowserRouter } from 'react-router-dom';
 import Signin from './signin';
 import Register from './register';
 import Main from './main';
@@ -8,7 +8,6 @@ import Courses from './courses';
 import Students from './students';
 import Attendences from './attendences';
 import Schedules from './schedules'
-import $ from 'jquery';
 import Fees from './fees';
 import Holidays from './holidays';
 import Transports from './transports';
@@ -19,7 +18,7 @@ import Gatepass from './gatepass';
 function App() {
   return (
     <>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path='/' element={<Signin />} />
           <Route path='/signin' element={<Signin />} />
@@ -36,7 +35,7 @@ function App() {
           <Route path='/rightbar' element={<Rightbar />} />
           <Route path='/gatepass' element={<Gatepass />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </>
   );
 }
